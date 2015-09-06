@@ -11,6 +11,13 @@
         "email": "raymond.kolbe@maine.edu"
         }
     ],
+     "repositories":
+    [
+      {
+        "type": "vcs",
+        "url": "https://github.com/hildert/dompdf.git"
+      }
+    ],
     "require": {
         "php": ">=5.3.0",
         "dompdf/dompdf": "dev-master"
